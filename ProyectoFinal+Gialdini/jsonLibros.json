@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"titulo": "Aprendiendo Javascript",
+		"genero": "Universitario/Informática",
+		"precio": 2500,
+		"stock": 10,
+		"img": "JSCRIPT.jfif"
+	},
+	{
+		"id": 2,
+		"titulo": "JAVA para novatos",
+		"genero": "Universitario/Informática",
+		"precio": 3800,
+		"stock": 0,
+		"img": "JAVA.jpg"
+	},
+	{
+		"id": 3,
+		"titulo": "Redes Informáticas",
+		"genero": "Universitario/Informática",
+		"precio": 6500,
+		"stock": 1,
+		"img": "REDES.png"
+	},
+	{
+		"id": 4,
+		"titulo": "Juego de Tronos",
+		"genero": "Fantasía",
+		"precio": 1800,
+		"stock": 4,
+		"img": "GOT.jpg"
+	},
+	{
+		"id": 5,
+		"titulo": "Dune",
+		"genero": "Ciencia Ficción",
+		"precio": 2200,
+		"stock": 9,
+		"img": "Dune.jpg"
+	},
+	{
+		"id": 6,
+		"titulo": "Soy Leyenda",
+		"genero": "Ciencia Ficción/Terror",
+		"precio": 1500,
+		"stock": 13,
+		"img": "SLEY.jpg"
+	},
+	{
+		"id": 7,
+		"titulo": "El derecho Penal Argentino en la historia",
+		"genero": "Universitario/Leyes",
+		"precio": 4750,
+		"stock": 17,
+		"img": "DER.png"
+	}
+]

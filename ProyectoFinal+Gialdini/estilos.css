@@ -1,0 +1,23 @@
+.caja {
+    border: 1px solid black;
+    display: inline-block;
+    margin: 1rem;
+    padding: 1rem;
+    width: 150px;
+    height: 190px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.nombreLibro {
+    width: 150px;
+    height: 90px;
+}
+
+.alinearIzq {
+    text-align: left;
+}
+
+.margenIzq {
+    margin-left: 20px;
+}
